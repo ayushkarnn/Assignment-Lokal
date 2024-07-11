@@ -17,17 +17,17 @@ This repository contains my solution for the Android Intern Assignment implement
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
 
 <div style="text-align: center; flex: 0 1 auto; margin: 10px;">
-  <img src="images/Job.jpg"  style="width: 100px;">
+  <img src="Images/Job.jpg"  style="width: 100px;">
   <p>Jobs</p>
 </div>
 
 <div style="text-align: center; flex: 0 1 auto; margin: 10px;">
-  <img src="images/Bookmark.jpg"  style="width: 100px;">
+  <img src="Images/Bookmark.jpg"  style="width: 100px;">
   <p>Bookmarked Jobs</p>
 </div>
 
 <div style="text-align: center; flex: 0 1 auto; margin: 10px;">
-  <img src="images/Details.jpg"  style="width: 100px;">
+  <img src="Images/Details.jpg"  style="width: 100px;">
   <p>Job Details</p>
 </div>
 
