@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#121c4299</color>
+    <color name="colorPrimary">#432fbf</color>
+    <color name="custom_background">#f7fafb</color>
+    <color name="gray_light">#2ABBBBBB</color>
+    <color name="ripple_light">#1f000000</color>
+    <color name="black1">#333c48</color>
+    <color name="black2">#1f000000</color>
+    <color name="black3">#121c42</color>
+    <color name="black4">#8E8E93</color>
+    <color name="bluelight">#e5effa</color>
+    <color name="greenlight">#ebf7ee</color>
+    <color name="blue1">#121c4299</color>
+    <color name="green">#3dbc60</color>
+    <color name="red">#DB1B15</color>
+</resources>
